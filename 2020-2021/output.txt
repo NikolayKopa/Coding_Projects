@@ -1,0 +1,5 @@
+banana,a,bnn
+roberto,o,rbert
+bookkeeper,e,bookkpr
+cheerlessness,s,cheerlene
+mississippi,,msssspp

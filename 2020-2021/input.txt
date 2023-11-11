@@ -1,0 +1,5 @@
+banana,a
+roberto,o
+bookkeeper,e
+cheerlessness,s
+mississippi,i

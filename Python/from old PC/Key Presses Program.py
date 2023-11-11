@@ -1,0 +1,32 @@
+import turtle
+turtle.speed(7)
+def circle():
+    print("You pressed c.")
+    turtle.pencolor("blue")
+    turtle.fillcolor("blue")
+    turtle.begin_fill()
+    turtle.circle(75)
+    turtle.end_fill()
+def triangle():
+    print("You pressed t.")
+    turtle.pencolor("red")
+    turtle.fillcolor("red")
+    turtle.begin_fill()
+    turtle.circle(75, 360, 3)
+    turtle.end_fill()
+def pentagon():
+    print("You pressed p.")
+    turtle.pencolor("yellow")
+    turtle.fillcolor("yellow")
+    turtle.begin_fill()
+    turtle.circle(75, 360, 5)
+    turtle.end_fill()
+def end():
+    print("You pressed e.")
+    quit()
+print("Press c for a circle, t for a triangle, p for a pentagon, and e to exit the screen.")
+turtle.listen()
+turtle.onkey(circle, "c")
+turtle.onkey(triangle, "t")
+turtle.onkey(pentagon, "p")
+turtle.onkey(end, "e")

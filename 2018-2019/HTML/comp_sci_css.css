@@ -1,0 +1,31 @@
+body {
+background-color: tan;
+} 
+h1{
+color: red;
+font family: cursive ; 
+} 
+p{
+color: blue;
+}
+h3{
+color: red;
+}
+body{
+background-color: tan;
+text-align: center;
+color: blue; 
+border-width: 70px; 
+  border-color: olive;
+  border-style: solid; 
+}
+img {
+  float: center;
+  width: 1000px;
+  margin: 70px;
+  border-color: brown;
+border-width: 100px;
+  border-style: double;
+  border-radius: 56px;
+  height: 750px; 
+} 

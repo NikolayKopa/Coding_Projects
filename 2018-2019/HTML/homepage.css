@@ -1,0 +1,28 @@
+body{
+background-color: tan;
+text-align: center; 
+border-width: 70px; 
+  border-color: red;
+  border-style: solid; 
+}
+h1{
+color: rgb(250,0,0);
+font family: cursive ; 
+} 
+p{
+color: rgb(250,0,0);
+}
+h3{
+color: rgb(250,0,0);
+}
+ul{
+color: rgb(250,0,0);
+}
+h2{
+color: rgb(250,0,0);
+} 
+
+
+a.nav:link {color: blue;}
+a.nav:visited {color: purple;}
+a.nav:hover {color: green;}

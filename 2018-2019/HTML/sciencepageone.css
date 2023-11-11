@@ -1,0 +1,33 @@
+body{
+background-color: tan;
+text-align: center;
+color: blue; 
+border-width: 70px; 
+  border-color: rgb(250,0,0);
+  border-style: solid; 
+}
+h1{
+color: red;
+font family: cursive ; 
+} 
+p{
+color: rgb(250,0,0);
+}
+h3{
+color: rgb(250,0,0);
+}
+img {
+  float: center;
+  width: 750px;
+  margin: 70px;
+  border-color: yellow;
+border-width: 100px;
+  border-style: double;
+  border-radius: 56px;
+  height: 750px; 
+} 
+
+a.nav:link {color: blue;}
+a.nav:visited {color: purple;}
+a.nav:hover {color: green;}
+
